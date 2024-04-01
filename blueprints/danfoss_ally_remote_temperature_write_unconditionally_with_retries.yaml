@@ -1,7 +1,7 @@
 ---
 blueprint:
   domain: automation
-  name: Ally Temp Update with enforce write and retries
+  name: Ally Temp Update with enforced write and retries
   description:
     "Update Danfoss Ally TRV external temperature with min/max refresh
     rate Original source: https://community.home-assistant.io/t/danfoss-ally-trv-working-with-remote-temp-sensor/276686/149"
