@@ -5,7 +5,7 @@ blueprint:
   description:
     "Update Danfoss Ally TRV external temperature with min/max refresh
     rate Original source: https://community.home-assistant.io/t/danfoss-ally-trv-working-with-remote-temp-sensor/276686/149"
-  source_url: https://github.com/mdeweerd/zha-toolkit/blob/master/blueprints/danfoss_ally_remote_temperature.yaml
+  source_url: https://github.com/oguzcanoguz/zha-toolkit/blob/main/blueprints/danfoss_ally_remote_temperature_write_unconditionally_with_retries.yaml
   input:
     ally_device:
       name: Ally TRV Device
